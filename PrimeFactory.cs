@@ -2,8 +2,10 @@ using System;
 
 class Priming  
 {
-    public static void Factoring(long n)
+    public static void Factoring()
 {
+    Console.WriteLine("Number to Prime: ");
+    long n = Int32.Parse(Console.ReadLine());
     List<int> sList = new List<int>();
     long temp = 1;
     for (int i = 2; i <= n; i++)
