@@ -1,0 +1,15 @@
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.csproj.AssemblyReference.cache
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.AssemblyInfoInputs.cache
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.AssemblyInfo.cs
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.csproj.CoreCompileInputs.cache
+C:\Users\Rober\repos\c#programs\bin\Debug\net7.0\c#programs.exe
+C:\Users\Rober\repos\c#programs\bin\Debug\net7.0\c#programs.deps.json
+C:\Users\Rober\repos\c#programs\bin\Debug\net7.0\c#programs.runtimeconfig.json
+C:\Users\Rober\repos\c#programs\bin\Debug\net7.0\c#programs.dll
+C:\Users\Rober\repos\c#programs\bin\Debug\net7.0\c#programs.pdb
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.dll
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\refint\c#programs.dll
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.pdb
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\c#programs.genruntimeconfig.cache
+C:\Users\Rober\repos\c#programs\obj\Debug\net7.0\ref\c#programs.dll
